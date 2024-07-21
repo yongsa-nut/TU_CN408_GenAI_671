@@ -18,6 +18,21 @@ The course will survey the recent emerging technologies in Generative Artificial
 
 ## Tentative Schedule
 
-| Date  |   Topic   |  Video   | Exercise |
+| Date  |   Topic   |  Video   | Homework |
 | ----- | --------- | -------- | -------- |
-| 13 August | Introduction to Gen AI  |          |          |
+| 14th August | Introduction to Gen AI  |          |          |
+| 21th August | LLM Basic               |          |          |
+| 28th August | Prompt Engineering      |          |          |
+| 4th September  | Evaluation and Open Source LLMs         |          |          |
+| 11th September | Information Retrieval and RAG |        |        |
+| 18th September | VLM, Text-to-Image, -Audio, -Video |          |          |
+| 25th September | Open source Text-to-Image  |        |        |
+| 2nd October  | Project Proposal       |           |          |
+| 9th October* | Case study: Story telling and roleplay |        |        |
+| 16th October* | Case study: Chatbot with knowledge base |      |        |
+| 23th October | Case study: Coding Assistant |          |         |
+| 30th October | Case study: text to everything |        |         |
+| 6th November | AI and UX, other domains |        |         | 
+| 13th November | Safety                 |         |           |
+| 20th November | AI and Humans          |         |           |
+| 27th November | Final Project Presentation |          |         |
