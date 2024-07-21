@@ -36,3 +36,5 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 13th November | Safety                 |         |           |
 | 20th November | AI and Humans          |         |           |
 | 27th November | Final Project Presentation |          |         |
+
+*I'm out of town (conference or competition).
