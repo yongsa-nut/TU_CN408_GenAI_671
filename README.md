@@ -28,10 +28,10 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 18th September | VLM, Text-to-Image, -Audio, -Video |          |          |
 | 25th September | Open source Text-to-Image models |        |        |
 | 2nd October  | Project Proposal       |           |          |
-| 9th October* | Case study: Story telling and roleplay |        |        |
-| 16th October* | Case study: Chatbot with knowledge base |      |        |
-| 23th October | Case study: Coding Assistant |          |         |
-| 30th October | Case study: AI Agent & text to everything |        |         |
+| 9th October* | AI Agents  |        |        |
+| 16th October* | Case study: Story telling and roleplay  |      |        |
+| 23th October | Case study: Chatbot with knowledge base |          |         |
+| 30th October | Case study: Coding Assistant & text to everything  |        |         |
 | 6th November | AI and UX, other domains |        |         | 
 | 13th November | Safety                 |         |           |
 | 20th November | AI and Humans          |         |           |
