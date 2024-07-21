@@ -26,7 +26,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 4th September  | Evaluation and Open Source LLMs         |          |          |
 | 11th September | Information Retrieval and RAG |        |        |
 | 18th September | VLM, Text-to-Image, -Audio, -Video |          |          |
-| 25th September | Open source Text-to-Image  |        |        |
+| 25th September | Open source Text-to-Image models |        |        |
 | 2nd October  | Project Proposal       |           |          |
 | 9th October* | Case study: Story telling and roleplay |        |        |
 | 16th October* | Case study: Chatbot with knowledge base |      |        |
