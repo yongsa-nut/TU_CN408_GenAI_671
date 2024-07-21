@@ -31,7 +31,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 9th October* | Case study: Story telling and roleplay |        |        |
 | 16th October* | Case study: Chatbot with knowledge base |      |        |
 | 23th October | Case study: Coding Assistant |          |         |
-| 30th October | Case study: text to everything |        |         |
+| 30th October | Case study: AI Agent & text to everything |        |         |
 | 6th November | AI and UX, other domains |        |         | 
 | 13th November | Safety                 |         |           |
 | 20th November | AI and Humans          |         |           |
