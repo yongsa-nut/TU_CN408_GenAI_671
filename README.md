@@ -21,7 +21,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | Date  |   Topic   |  Video   | Homework |
 | ----- | --------- | -------- | -------- |
 | 14th August | [Introduction to Gen AI](https://docs.google.com/presentation/d/1Z5KCaE9EFxz3z5V7hcRNhpuQKBZ_GxgtkqnnsXoQudo/edit?usp=sharing)  |          |          |
-| 21th August | LLM Basic               |          |          |
+| 21th August | [LLM Basic](https://docs.google.com/presentation/d/1EcUcSMWopO-XwPPQJIRH6oU6MD436eLWue_1aSUlOVM/edit?usp=sharing)               |          |          |
 | 28th August | Prompt Engineering      |          |          |
 | 4th September  | Evaluation and Open Source LLMs         |          |          |
 | 11th September | Information Retrieval and RAG |        |        |
