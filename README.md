@@ -23,7 +23,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 14th August | [Introduction to Gen AI](https://docs.google.com/presentation/d/1Z5KCaE9EFxz3z5V7hcRNhpuQKBZ_GxgtkqnnsXoQudo/edit?usp=sharing)  |          |          |
 | 21th August | [LLM Basic](https://docs.google.com/presentation/d/1EcUcSMWopO-XwPPQJIRH6oU6MD436eLWue_1aSUlOVM/edit?usp=sharing)               |          |          |
 | 28th August | [Prompt Engineering](https://docs.google.com/presentation/d/1TixS_ousH9ejIaoelYdhNqo9igtw4hr_ThHQySVBVFQ/edit?usp=sharing)      |          |          |
-| 4th September  | Evaluation        |          |          |
+| 4th September  | [Evaluation](https://docs.google.com/presentation/d/1VO1ysRK8oOjKVhVESfZnSXbf7KzNqrcYnwpIJG-9USg/edit?usp=sharing)        |          |          |
 | 11th September | Information Retrieval and RAG |        |        |
 | 18th September | VLM, Text-to-Image, -Audio, -Video |          |          |
 | 25th September | Open source Image Gen models |        |        |
