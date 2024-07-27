@@ -29,7 +29,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 25th September | Open source Image Gen models |        |  HW6 (10 points)   |          |
 | 2nd October  | Project Proposal       |           |          |                        |
 | 9th October* | AI Agents  |        |        |             |
-| 16th October* | Case study: Story telling and roleplay  |      |        |            |
+| 16th October* | Case study: Story telling and roleplay  |      | HW7 (5 points)       |            |
 | 23th October | Case study: Chatbot with knowledge base <br> & Coding Assistant |          |         |             |
 | 30th October | Safety  |        |         |            |
 | 6th November | AI and UX, other domains |        |         |          |
