@@ -26,7 +26,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 4th September  | [Evaluation](https://docs.google.com/presentation/d/1VO1ysRK8oOjKVhVESfZnSXbf7KzNqrcYnwpIJG-9USg/edit?usp=sharing)        |          |   HW4 (5 points) |            |
 | 11th September | Information Retrieval and RAG |        |  HW5 (10 points)  |         |
 | 18th September | VLM, Text-to-Image, -Audio, -Video |          |          |           |
-| 25th September | Open source Image Gen models |        |  HW6 (5 points)   |          |
+| 25th September | Open source Image Gen models |        |  HW6 (10 points)   |          |
 | 2nd October  | Project Proposal       |           |          |                        |
 | 9th October* | AI Agents  |        |        |             |
 | 16th October* | Case study: Story telling and roleplay  |      |        |            |
