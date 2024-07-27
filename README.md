@@ -31,9 +31,9 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 9th October* | AI Agents  |        |        |
 | 16th October* | Case study: Story telling and roleplay  |      |        |
 | 23th October | Case study: Chatbot with knowledge base & Coding Assistant|          |         |
-| 30th October | Open Source LLMs |        |         |
+| 30th October | Safety  |        |         |
 | 6th November | AI and UX, other domains |        |         | 
-| 13th November | Safety                 |         |           |
+| 13th November | Open Source LLMs   |         |           |
 | 20th November | Frontier & AI and Humans          |         |           |
 | 27th November | Final Project Presentation |          |         |
 
