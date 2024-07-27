@@ -20,8 +20,8 @@ The course will survey the recent emerging technologies in Generative Artificial
 
 | Date  |   Topic   |  Video   | Homework | HW Deadline |
 | ----- | --------- | -------- | -------- | ----------- |
-| 14th August | [Introduction to Gen AI](https://docs.google.com/presentation/d/1Z5KCaE9EFxz3z5V7hcRNhpuQKBZ_GxgtkqnnsXoQudo/edit?usp=sharing)  |          | [HW1](https://docs.google.com/presentation/d/1Z5KCaE9EFxz3z5V7hcRNhpuQKBZ_GxgtkqnnsXoQudo/edit#slide=id.g2ed124f5f7c_1_1115) (5 points)        |              |  
-| 21th August | [LLM Basic](https://docs.google.com/presentation/d/1EcUcSMWopO-XwPPQJIRH6oU6MD436eLWue_1aSUlOVM/edit?usp=sharing)               |          | [HW2](https://colab.research.google.com/github/yongsa-nut/TU671_CN408_GenAI/blob/main/HW2.ipynb) (5 points)         |            |
+| 14th August | [Introduction to Gen AI](https://docs.google.com/presentation/d/1Z5KCaE9EFxz3z5V7hcRNhpuQKBZ_GxgtkqnnsXoQudo/edit?usp=sharing)  |          | [HW1](https://docs.google.com/presentation/d/1Z5KCaE9EFxz3z5V7hcRNhpuQKBZ_GxgtkqnnsXoQudo/edit#slide=id.g2ed124f5f7c_1_1115) (5 points)        |  20th Auguest            |  
+| 21th August | [LLM Basic](https://docs.google.com/presentation/d/1EcUcSMWopO-XwPPQJIRH6oU6MD436eLWue_1aSUlOVM/edit?usp=sharing)               |          | [HW2](https://colab.research.google.com/github/yongsa-nut/TU671_CN408_GenAI/blob/main/HW2.ipynb) (5 points)         | 3rd September           |
 | 28th August | [Prompt Engineering](https://docs.google.com/presentation/d/1TixS_ousH9ejIaoelYdhNqo9igtw4hr_ThHQySVBVFQ/edit?usp=sharing)      |          |  HW3 (10 points) |         |      
 | 4th September  | [Evaluation](https://docs.google.com/presentation/d/1VO1ysRK8oOjKVhVESfZnSXbf7KzNqrcYnwpIJG-9USg/edit?usp=sharing)        |          |   HW4 (5 points) |            |
 | 11th September | Information Retrieval and RAG |        |  HW5 (10 points)  |         |
