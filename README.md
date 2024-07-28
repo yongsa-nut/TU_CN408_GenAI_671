@@ -32,7 +32,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 16th October* | Case study: Story telling and roleplay <br> text to everything |      | HW6 (10 points)       | 29th October           |
 | 23th October | Case study: Chatbot with knowledge base <br> & Coding Assistant |          |         |             |
 | 30th October | Safety  |        |         |            |
-| 6th November | AI and UX, other domains |        |         |          |
+| 6th November | AI and UX, other domains |        | Progress Report   |          |
 | 13th November | Open Source LLMs   |         |           |           |
 | 20th November | Frontier & AI and Humans          |         |         |          |
 | 27th November | Final Project Presentation |          |         |            |
