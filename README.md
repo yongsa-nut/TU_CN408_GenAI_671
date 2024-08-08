@@ -11,7 +11,9 @@ email: ynutchan@engr.tu.ac.th
 
 Office hours: TBA
 
-My room: No room until the building is finished renovating.
+Class Time: Wednesday 13:30 - 16:30
+
+Classroom: EGR603-1
 
 ## Course overview 
 The course will survey the recent emerging technologies in Generative Artificial Intelligence. The topic includes large language models, Prompt Engineering, Retrieval Augmented Generation, and Image Generation Models. The course will cover several case studies, including storytelling, user experiences, code assistance, and knowledge assistance.
