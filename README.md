@@ -9,7 +9,7 @@ Name: Nutchanon Yongsatianchot (Nut)
 
 email: ynutchan@engr.tu.ac.th
 
-Office hours: TBA
+Office hours: Friday 9:45 - 12:00
 
 Class Time: Wednesday 13:30 - 16:30
 
