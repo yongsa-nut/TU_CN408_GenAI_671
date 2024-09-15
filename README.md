@@ -27,15 +27,15 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 28th August | [Prompt Engineering](https://docs.google.com/presentation/d/1TixS_ousH9ejIaoelYdhNqo9igtw4hr_ThHQySVBVFQ/edit?usp=sharing)      |  [Video](https://tuipied-my.sharepoint.com/:v:/g/personal/nutchany_tu_ac_th/Ea1drpH5I4xAm-MYkariVDIB4HCBUZWz1W95cE5hrbqcQQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b4Hkp4)        |  [HW3](https://colab.research.google.com/github/yongsa-nut/TU671_CN408_GenAI/blob/main/HW3_Prompt_Engineering.ipynb) (10 points) | 10th September        |      
 | 4th September  | [Evaluation](https://docs.google.com/presentation/d/1VO1ysRK8oOjKVhVESfZnSXbf7KzNqrcYnwpIJG-9USg/edit?usp=sharing)        |          |       |            |
 | 11th September | [Information Retrieval and RAG](https://docs.google.com/presentation/d/1jhILUscoPbsbz1AsIkomD8-h6gP-7284q_2LMNFKSkU/edit?usp=sharing) |        |  [HW4](https://colab.research.google.com/github/yongsa-nut/TU_CN408_GenAI_671/blob/main/HW_4_RAG.ipynb) (10 points)  | 24th September        |
-| 18th September | VLM, Text-to-Image, -Audio, -Video |          |          |           |
-| 25th September | Open source Image Gen models |        |  HW5 (10 points)   | 8th October         |
+| 18th September | [Visual Language Models](https://docs.google.com/presentation/d/1_moPNlurmSM4dIW4yb15A13aYqhmpN7ntafot08SJuk/edit?usp=sharing) |          |          |           |
+| 25th September | Tool-use and Text-to-Image Models |        |  HW5 (10 points)   | 8th October         |
 | 2nd October  | Project Proposal       |           |          |                        |
 | 9th October* | AI Agents  |        |        |             |
 | 16th October | Case study: Story telling and roleplay <br> text to everything |      | HW6 (10 points)       | 29th October           |
 | 23th October | Case study: Chatbot with knowledge base <br> & Coding Assistant |          |         |             |
 | 30th October | Safety  |        |         |            |
 | 6th November | AI and UX, other domains |        | Progress Report   |          |
-| 13th November | Open Source LLMs   |         |           |           |
+| 13th November | Open Source LLMs/Text-to-Image Models   |         |           |           |
 | 20th November | Frontier & AI and Humans          |         |         |          |
 | 27th November | Final Project Presentation |          |         |            |
 
