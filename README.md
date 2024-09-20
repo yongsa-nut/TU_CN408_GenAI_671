@@ -5,7 +5,7 @@ Thammasat University
 
 Name: Nutchanon Yongsatianchot (Nut)
 
-ชื่อ: ณัฐชนน ยงเสถียรโชติ (นัด)
+ชื่อ: ณัฐชนน ยงเสถียรโชติ (นัท)
 
 email: ynutchan@engr.tu.ac.th
 
@@ -39,4 +39,4 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 20th November | Frontier (Search) & AI and Humans          |         |         |          |
 | 27th November | Final Project Presentation |          |         |            |
 
-*I'm out of town (conference and competition).
+*I'm out of town.
