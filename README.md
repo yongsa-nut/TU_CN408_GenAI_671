@@ -31,11 +31,11 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 25th September | [Tool-use and Text-to-Image Models](https://docs.google.com/presentation/d/1gQvYaisK2igiFXsnn6Z7B8iDGh1f34t-73sx0HA1frc/edit?usp=sharing) |        |  [HW5](https://docs.google.com/document/d/1CQePtV-Gr5XJaYNpL1BcF0bpkJHoV6QKyJpj8pFsf0c/edit?usp=sharing) (10 points)   | 8th October         |
 | 2nd October  | Project Proposal       |           |          |                        |
 | 9th October* | AI Agents  |        |        |             |
-| 16th October | Case study: Story telling and roleplay <br> text to everything |      | HW6 (10 points)       | 29th October           |
+| 16th October | Case study: Story telling and roleplay <br> text to everything |      | HW6 (5 points)       | 29th October           |
 | 23th October | Case study: Chatbot with knowledge base <br> & Coding Assistant |          |         |             |
 | 30th October | Safety  |        |         |            |
 | 6th November | AI and UX, other domains |        | Progress Report   |          |
-| 13th November | Open Source LLMs/Text-to-Image Models   |         |           |           |
+| 13th November | Open Source LLMs/Text-to-Image Models   |         | HW7 (5 points)          |           |
 | 20th November | Frontier (Search) & AI and Humans          |         |         |          |
 | 27th November | Final Project Presentation |          |         |            |
 
