@@ -36,7 +36,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 30th October | Safety  |        |         |            |
 | 6th November | AI and UX, other domains |        | Progress Report   |          |
 | 13th November* | Open Source LLMs/Text-to-Image Models   |         | HW6 (5 points)          |           |
-| 20th November | Frontier (Search) & AI and Humans          |         |  In-class Discussion       |          |
+| 20th November | Frontier (Search) & AI and Humans (Society impact)         |         |  In-class Discussion       |          |
 | 27th November | Final Project Presentation |          |         |            |
 
 *I'm out of town.
