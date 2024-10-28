@@ -34,7 +34,7 @@ The course will survey the recent emerging technologies in Generative Artificial
 | 16th October | [Case study: Story telling and roleplay](https://docs.google.com/presentation/d/1M2WlCaJn_ZyB9CV2oTSOC6BB9bpYRYDGtVQ8N-KRIxI/edit?usp=sharing) |      |       |           |
 | 23th October | [Case study: Chatbot with knowledge base <br> & Coding Assistant](https://docs.google.com/presentation/d/17ZlGu45josEJxOlwICiUl67M_UPfI-PyuXAPYU2JXBk/edit?usp=sharing) |          |         |             |
 | 30th October | [Safety](https://docs.google.com/presentation/d/1nz80kekBvHUvzxrazkBwQuED6UJ1VUPKucbcZ-ZUAuE/edit?usp=sharing)  |        |         |            |
-| 6th November | AI and UX, other domains |        | Progress Report   |          |
+| 6th November | AI and UX, LLM frameworks |        | Progress Report   |          |
 | 13th November* | Open Source LLMs/Text-to-Image Models   |         | HW6 (5 points)          |           |
 | 20th November | Frontier (Search) & AI and Humans (Society impact)         |         |  In-class Discussion       |          |
 | 27th November | Final Project Presentation |          |         |            |
